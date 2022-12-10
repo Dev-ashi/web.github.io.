@@ -1,0 +1,47 @@
+body{
+  background-color: ;
+}
+
+.h1{
+  text-align: center;
+  font-family: bold;
+}
+#container{
+  border: solid ;
+}
+ #p1{
+   border: solid;
+   border-width: thin;
+   margin: 20;
+   padding: 20px;
+   
+ }
+ #container02{
+   border: solid;
+   padding: 20px;
+   border-width: thin;
+ }
+ #heading{
+   font-family: bold;
+ }
+ #container01{
+   border: solid;
+   border-width: thin;
+   padding: 20px;
+   margin-top: 10px;
+ }
+#nav{
+  background-color: red;
+  margin-top: 0px;
+  margin-left:0px;
+  padding:5px;
+}
+#div{
+  background-color: blue;
+}
+.lists{
+  padding: 15px;
+  border-radius:10px;
+  margin: 0px;
+  
+}
